@@ -1,0 +1,245 @@
+{
+  "snapshot_date": "2026-10-24",
+  "files": [
+    {
+      "path": "lab1/HW1实验报告.pdf",
+      "archive": "D:\\projects\\cv-2026\\HW1\\HW1.zip",
+      "archive_entry": "HW1实验报告.pdf",
+      "sha256": "b89fc902c73ecdb5ebbd0d55d45f58f71ac870d1676a03658ac5c9bd7647d6dc"
+    },
+    {
+      "path": "lab1/code.py",
+      "archive": "D:\\projects\\cv-2026\\HW1\\HW1.zip",
+      "archive_entry": "code.py",
+      "sha256": "136d792f05b102266a1b02489a61feeeda6cc115c50ca41b8ab397f57bda8326"
+    },
+    {
+      "path": "lab2/2500012966_刘洋_HW2实验报告.docx",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/2500012966_刘洋_HW2实验报告.docx",
+      "sha256": "9ec371ea29a04e6845be75a9b8b4a347c0c0d63de6ff04b9cf07959c33236b36"
+    },
+    {
+      "path": "lab2/cylindrical.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/cylindrical.py",
+      "sha256": "624df73840fe4c96932ba6620e529c35468affb51c29e9f8f66f593f9e77fd7a"
+    },
+    {
+      "path": "lab2/homework2.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/homework2.py",
+      "sha256": "bb2deef61b5390f2330a5e8ad959005c9cccd24e3b6a6dbe953528ac716f3ab4"
+    },
+    {
+      "path": "lab2/outputs/blend_1.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/blend_1.png",
+      "sha256": "a4078500fac6cc0a92d89973a70e7f5c8607b787ba852e66255cabfe9f38a86b"
+    },
+    {
+      "path": "lab2/outputs/blend_2.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/blend_2.png",
+      "sha256": "9002c27ae56390a01695918582f7444809b9cf7e52dacbc7bdbf67098db59a3f"
+    },
+    {
+      "path": "lab2/outputs/blend_3.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/blend_3.png",
+      "sha256": "629674c5827fac8548c34569e1500075fe1b0e1ca3ea62a4b1497828098583f8"
+    },
+    {
+      "path": "lab2/outputs/corner_result.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/corner_result.png",
+      "sha256": "b29835f1d0f081104b69b1fa1796a6e8d3d24e8a3b2626c2d33f5c76458bf71b"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/cylindrical_1_360.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/cylindrical_1_360.png",
+      "sha256": "e5ce39da3df77f8eaa95d2f494b5f7e9c97d98ff8ec65d0338fcafb5354248bc"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/cylindrical_1_5frames.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/cylindrical_1_5frames.png",
+      "sha256": "cbea1ac3bef062438e3d3f35d7045d5590f0c9fdb2e228d536e580f287443345"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/cylindrical_2_360.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/cylindrical_2_360.png",
+      "sha256": "68b7af093bef5155261002746c4ea6ea20fb46cd989b4cf8cf63997eb26810ee"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/cylindrical_2_5frames.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/cylindrical_2_5frames.png",
+      "sha256": "53dfd64896388483f9b28e7b3c687e93e32d1eb57590b48fdbbf49bfa1b98bd7"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/cylindrical_3_360.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/cylindrical_3_360.png",
+      "sha256": "b7dae73b78c028dacc08ee1fea1129e57def13e8efea89c21c1bf86d26181010"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/cylindrical_3_5frames.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/cylindrical_3_5frames.png",
+      "sha256": "ae106ceb02b4993772738c35854ed0056f6263ad6370377b74da9ffec918b5ca"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/cylindrical_4_360.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/cylindrical_4_360.png",
+      "sha256": "69f975d41ce106f126840f1763c2faec288e6cd7c0ca6532a7943067c637a82d"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/cylindrical_4_5frames.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/cylindrical_4_5frames.png",
+      "sha256": "0f9dde835e5493b172b78beb4792301b3ff87128d44c94e09ee949cfa45ef16e"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/preview_360.jpg",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/preview_360.jpg",
+      "sha256": "9b0c5d75727f76260b787d6948948f0b7e09a56d80a06cba76e09d4be24ff3ac"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/projection_1.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/projection_1.png",
+      "sha256": "e1d6aca4ad85d5c31e011f0580e0d76ef18eb857dc580ca9db6bb3005f491279"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/projection_2.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/projection_2.png",
+      "sha256": "0a9e633d93b11469ca9829734adb2a3257fb09d05ebaba1cca87c89d6d4cf0b1"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/projection_3.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/projection_3.png",
+      "sha256": "3b5a8ad96023a379d917473c3c16ab1fb0ba855b04c2c0b47e242d2fea3984b6"
+    },
+    {
+      "path": "lab2/outputs/cylindrical/projection_4.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/cylindrical/projection_4.png",
+      "sha256": "207ff1bed2ac7ca6070e1e433f23435cdda06c0e82297a9be86a96a6b3af8d08"
+    },
+    {
+      "path": "lab2/outputs/histogram_match.jpg",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/histogram_match.jpg",
+      "sha256": "95342de2a66cef3b98859eef701b2e0ba45ad65ff0e5f2cccbe9d8a3e75a1cae"
+    },
+    {
+      "path": "lab2/outputs/panorama_1.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/panorama_1.png",
+      "sha256": "f6cec9a240d4915269bef756708a9c7783d16240a15a1f4b2e2c8f51a3108375"
+    },
+    {
+      "path": "lab2/outputs/panorama_2.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/panorama_2.png",
+      "sha256": "81a016620f2eb480274cd09b9177cd39a03a77c043f50c1316c75c9612b585f3"
+    },
+    {
+      "path": "lab2/outputs/panorama_3.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/panorama_3.png",
+      "sha256": "08fbbac109dd1883943ecda399de931c4ebcb89faa2b60552e66ccd66e6c0e46"
+    },
+    {
+      "path": "lab2/outputs/panorama_4.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/panorama_4.png",
+      "sha256": "c6917f0d1fb08f90e390dfd4f513024576c905972c7fd91cad24e6ee7ea4d3a4"
+    },
+    {
+      "path": "lab2/outputs/ransac_1_1_1_2.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/ransac_1_1_1_2.png",
+      "sha256": "6283951cd973d546d819b0d09dc2dd1fcd73f2178ccbf11a2a75b1357976b043"
+    },
+    {
+      "path": "lab2/outputs/ransac_2_1_2_2.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/ransac_2_1_2_2.png",
+      "sha256": "98315dccf2e0790cc25200c248cbdfdcc3528efd5a5c41bfe2f19afb85c9f623"
+    },
+    {
+      "path": "lab2/outputs/ransac_3_1_3_2.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/ransac_3_1_3_2.png",
+      "sha256": "fc10e4c6e5735e5ee5940539405008e03362c684e691b0655771cbd4ce841f7d"
+    },
+    {
+      "path": "lab2/outputs/ransac_4_1_4_2.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/outputs/ransac_4_1_4_2.png",
+      "sha256": "9473bc70b0021178519a1a3789857b32b9e29e527ec601e691dcd210d4e22bc2"
+    },
+    {
+      "path": "lab2/README.md",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/README.md",
+      "sha256": "429ad194ab6b23af60ebd5b0521b8fc128342edc8c4aeae546516362d674ada2"
+    },
+    {
+      "path": "lab2/test_blend.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/test_blend.py",
+      "sha256": "afb16ef742f1610eb7316134956b741fd34a84fdf931471a5af05cc95f2841b5"
+    },
+    {
+      "path": "lab2/test_corner.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/test_corner.py",
+      "sha256": "44710e59d19004f50f73644f1a018bd9c7e5d210bb02f857174ba4f6a2288c84"
+    },
+    {
+      "path": "lab2/test_cylindrical.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/test_cylindrical.py",
+      "sha256": "f25090d8e9816404f3ac84d3dc58ca823e39f684cbbd4683308465438802c4f6"
+    },
+    {
+      "path": "lab2/test_cylindrical_geometry.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/test_cylindrical_geometry.py",
+      "sha256": "b4ad6bf0e8a4a85cdcd71462d74bfe278f5050918094c9c89c1ccec08517aed3"
+    },
+    {
+      "path": "lab2/test_histogram.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/test_histogram.py",
+      "sha256": "6dd33dc1a41790251b3600a06ac6a0bbea0ee466340a7c9e39a849ba7951d063"
+    },
+    {
+      "path": "lab2/test_panorama.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/test_panorama.py",
+      "sha256": "77d530950e205536c61599af8c6631aa736e91e5a59334157a89bde4ac85f3a2"
+    },
+    {
+      "path": "lab2/test_ransac.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/test_ransac.py",
+      "sha256": "92a2c0fd5be2f94f7740d40597278cc62eb7cc1d27824cdacfdae7dc05f73313"
+    },
+    {
+      "path": "lab2/utils.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
+      "archive_entry": "2500012966_刘洋_HW2/utils.py",
+      "sha256": "0dd8c1f9aac131c2fe596fb374a1a1d04bb9f6aa92c2c7a987593eb3d8820b51"
+    }
+  ]
+}
