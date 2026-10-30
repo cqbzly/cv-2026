@@ -1,0 +1,19 @@
+{
+  "image_sha256": "31c2a55937ccb5b674b8be59f6a3d60f3f3669776a302e46376712d848b0f6db",
+  "source": "User-provided original HW3/data/lab1.jpg, unchanged",
+  "coordinates": "original image, 1072 x 712; (x,y) with origin top-left",
+  "annotation_method": "OpenCV createLineSegmentDetector default, image pixels only; detected endpoints then ROI/length/slope grouping and visual review. No reference K/P used to generate endpoints.",
+  "grouping_rules": {
+    "both_endpoint_y_below": 140,
+    "min_segment_length_px": 70,
+    "A_slope_range": [
+      0.04,
+      0.25
+    ],
+    "B_slope_range": [
+      -0.6,
+      -0.08
+    ]
+  },
+  "caveat": "Fragments and opposite edges of the same beam are correlated observations, not 33 independent architectural lines. Orthogonality is an assumed room-grid property, not an independently measured ground truth."
+}

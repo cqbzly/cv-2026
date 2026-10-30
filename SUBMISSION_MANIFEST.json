@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-10-24",
+  "snapshot_date": "2026-10-30",
   "files": [
     {
       "path": "lab1/HW1实验报告.pdf",
@@ -240,6 +240,114 @@
       "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW2.zip",
       "archive_entry": "2500012966_刘洋_HW2/utils.py",
       "sha256": "0dd8c1f9aac131c2fe596fb374a1a1d04bb9f6aa92c2c7a987593eb3d8820b51"
+    },
+    {
+      "path": "lab3/2500012966_刘洋_HW3实验报告.pdf",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/2500012966_刘洋_HW3实验报告.pdf",
+      "sha256": "7a54b51359cf08da408d83870db579ca3c3c023db37f15bde7808aa8161e8231"
+    },
+    {
+      "path": "lab3/main.py",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/main.py",
+      "sha256": "215be42d5c679ab79effeb4dcf02598b34b2b6d9388ae3f7049f4a9419448ffe"
+    },
+    {
+      "path": "lab3/outputs/lab_matches.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/lab_matches.png",
+      "sha256": "193719ccb49cf2c5145f8d51c9e879f690f614c535161ead8d795c7e145c7d24"
+    },
+    {
+      "path": "lab3/outputs/library_matches.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/library_matches.png",
+      "sha256": "4bb96ce4f9d01a3a6f1446f85c8829a06d327b89a9e927f73ff784fe07be4d3a"
+    },
+    {
+      "path": "lab3/outputs/matrices.npz",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/matrices.npz",
+      "sha256": "2639c9c7424336a760cfb109c0f4558a47abdeadb803dd922c01253e35f2ab30"
+    },
+    {
+      "path": "lab3/outputs/metrics.json",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/metrics.json",
+      "sha256": "746038a7c69957aa44c1f7b9de9ceb0381f5745eb4998fb189efed5bfd3ab11b"
+    },
+    {
+      "path": "lab3/outputs/q1_lab_normalized.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q1_lab_normalized.png",
+      "sha256": "141dec41405dd92fb68255da88947cbdb09cfb46d3068fa69a6d468fd322bcb2"
+    },
+    {
+      "path": "lab3/outputs/q1_lab_unnormalized.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q1_lab_unnormalized.png",
+      "sha256": "fa010c260b968d9fadf253dd8043e56746ac8cb9266bd731932c27cec838c365"
+    },
+    {
+      "path": "lab3/outputs/q1_library_normalized.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q1_library_normalized.png",
+      "sha256": "0d1a0d0d32cd49cb4158cf9d838ba48c768c3c39466d31cad4f40811dfaea6f5"
+    },
+    {
+      "path": "lab3/outputs/q1_library_unnormalized.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q1_library_unnormalized.png",
+      "sha256": "5166d9c4158ae475585ca9e772b45c779a327e8b954776d14a0522fd573664d0"
+    },
+    {
+      "path": "lab3/outputs/q2_lab_a.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q2_lab_a.png",
+      "sha256": "d1349b998b21945cb49fd9763ac3bbf0570100959270a1765dc2d13afc53940a"
+    },
+    {
+      "path": "lab3/outputs/q2_lab_b.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q2_lab_b.png",
+      "sha256": "3e8022961ced7c604ae44d4974281c2fdafe6b2987e3f7986bd13a19fe9d6873"
+    },
+    {
+      "path": "lab3/outputs/q3_vanishing_points.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q3_vanishing_points.png",
+      "sha256": "5d432cf9fef4da93d8872c64868edf30f2d1d103c9e35315acaa6017f7fcd018"
+    },
+    {
+      "path": "lab3/outputs/q4_lab_3d.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q4_lab_3d.png",
+      "sha256": "f6187fe1d3adee58102f805e150cc67c09a6f689e3eb5c75441379cd673c2858"
+    },
+    {
+      "path": "lab3/outputs/q5_gaudi_epipolar.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q5_gaudi_epipolar.png",
+      "sha256": "ad182bb7e1684bd5264fd4ff417f58275625de525ddf4e79d66ad5d4992ee432"
+    },
+    {
+      "path": "lab3/outputs/q5_gaudi_inliers.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q5_gaudi_inliers.png",
+      "sha256": "a6e2e20bcc1b883cf2b14e4dc92ac357d3e6b7e2eb09885f694099f1465f815c"
+    },
+    {
+      "path": "lab3/outputs/q5_house_epipolar.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q5_house_epipolar.png",
+      "sha256": "19acb0c3849b7a753ae6807859450f51f0b4cc75563cbb35849bca13bb58a16f"
+    },
+    {
+      "path": "lab3/outputs/q5_house_inliers.png",
+      "archive": "D:\\projects\\cv-2026\\output\\2500012966_刘洋_HW3.zip",
+      "archive_entry": "2500012966_刘洋_HW3/outputs/q5_house_inliers.png",
+      "sha256": "a1805ee51e0b8c03e3c347345c1f738df22dd9af7de1dd30336e65a798dee39f"
     }
   ]
 }

@@ -7,3 +7,4 @@ __pycache__/
 *.pth
 wandb/
 data/
+!lab3/data/
